@@ -1,51 +1,36 @@
 package com.bitrix24.utilities;
 
-import com.vytrack.pages.activites.CalendarEventsPage;
-import com.vytrack.pages.dashboards.DashboardPage;
-import com.vytrack.pages.fleet.VehiclesPage;
-import com.vytrack.pages.login_navigation.LoginPage;
+
+import com.bitrix24.pages.login.LoginPage;
+import com.bitrix24.pages.sidemenu.SidemenuPage;
+import com.bitrix24.pages.task.TaskPage;
+import com.bitrix24.pages.topmenu.TopmenuPage;
 
 public class Pages {
     private LoginPage loginPage;
-    private DashboardPage dashboardPage;
-    private VehiclesPage vehiclesPage;
-
-    private CalendarEventsPage calendarEventsPage;
-//    private ManageDashboards manageDashboards;
-
-
-    public VehiclesPage vehiclesPage() {
-        if (vehiclesPage == null) {
-            vehiclesPage = new VehiclesPage();
-        }
-        return vehiclesPage;
-    }
+    private TopmenuPage topmenuPage;
+    private SidemenuPage sidemenuPage;
+    private TaskPage taskPage;
 
     public LoginPage loginPage() {
-        if (loginPage == null) {
-            loginPage = new LoginPage();
-        }
+        if (loginPage == null) loginPage = new LoginPage();
         return loginPage;
     }
 
-    public CalendarEventsPage calendarEventsPage() {
-        if (calendarEventsPage == null) {
-            calendarEventsPage = new CalendarEventsPage();
-        }
-        return calendarEventsPage;
+    public TopmenuPage topmenuPage() {
+        if (topmenuPage == null) topmenuPage = new TopmenuPage();
+        return topmenuPage;
     }
 
-    public DashboardPage dashboardPage() {
-        if (dashboardPage == null) {
-            dashboardPage = new DashboardPage();
-        }
-        return dashboardPage;
+    public SidemenuPage sidemenuPage() {
+        if (sidemenuPage == null) sidemenuPage = new SidemenuPage();
+        return sidemenuPage;
     }
 
-//    public ManageDashboards manageDashboards() {
-//        if (manageDashboards == null) {
-//            manageDashboards = new ManageDashboards();
-//        }
-//        return manageDashboards;
-//    }
+    public TaskPage taskPage() {
+        if (taskPage == null) taskPage = new TaskPage();
+        return taskPage;
+    }
+
+
 }

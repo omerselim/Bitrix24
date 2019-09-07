@@ -1,0 +1,25 @@
+
+ BrowserUtils.waitForClickablility(rememberMeElement, Integer.valueOf(ConfigurationReader.getProperty("SHORT_WAIT")));
+ BrowserUtils.waitForClickablility(rememberMeElement, Integer.parseInt(ConfigurationReader.getProperty("SHORT_WAIT")));
+
+------------------------------------------------------------------------------------------------------------------------
+DragNDrop WebElement
+-------------------------------------
+
+WebElement from = driver.findElement(By....("..."));
+WebElement to = driver.findElement(By....("..."));
+
+Action builder = new Action(driver);
+
+try{
+    BrowserUtil.wait(3);
+    Action dragDrop = builder.clickAndHold(from).moveToElement(to).release(to).build();
+}catch (Exception e){
+    System.out.println(e)
+}
+
+----------------------------------------------------------------------------------------------------------------------
+WebElement droparea = driver.findElement(By.cssSelector("#holder"));
+
+// drop the file
+DropFile(new File("C:\\Downloads\\image.png"), droparea, 0, 0);

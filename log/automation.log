@@ -1,0 +1,1216 @@
+2019-08-20 07:24:55 [main] ERROR BasePage:67 - Loader mask doesn't present.
+2019-08-20 07:28:22 [main] ERROR BasePage:67 - Loader mask doesn't present.
+2019-08-20 07:28:44 [main] ERROR BasePage:67 - Loader mask doesn't present.
+2019-08-20 07:29:09 [main] ERROR BasePage:67 - Loader mask doesn't present.
+2019-08-21 09:05:34 [main] ERROR BasePage:89 - Failed to click on :: Message
+2019-08-21 09:05:34 [main] ERROR BasePage:90 - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55347}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b65618ab394470b2d0fdd6ac0adb88e0
+2019-08-21 09:05:39 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Message']"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55347}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b65618ab394470b2d0fdd6ac0adb88e0
+*** Element info: {Using=xpath, value=//span[text()='Message']}
+2019-08-21 09:05:39 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-08-21 09:05:45 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Message']"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55347}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b65618ab394470b2d0fdd6ac0adb88e0
+*** Element info: {Using=xpath, value=//span[text()='Message']}
+2019-08-21 09:05:45 [main] ERROR BrowserUtils:146 - Attempt :: 2
+2019-08-21 09:05:52 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Message']"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55347}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b65618ab394470b2d0fdd6ac0adb88e0
+*** Element info: {Using=xpath, value=//span[text()='Message']}
+2019-08-21 09:05:52 [main] ERROR BrowserUtils:146 - Attempt :: 3
+2019-08-21 09:15:38 [main] ERROR BasePage:90 - Failed to click on :: Message
+2019-08-21 09:15:38 [main] ERROR BasePage:91 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //span[text()='Message'] (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-21 09:15:59 [main] ERROR BasePage:90 - Failed to click on :: Message
+2019-08-21 09:15:59 [main] ERROR BasePage:91 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //span[text()='Message'] (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-21 09:16:04 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Message']"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56022}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 9b00a0b8ee5601840366643939e7a2a8
+*** Element info: {Using=xpath, value=//span[text()='Message']}
+2019-08-21 09:16:04 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-08-21 09:16:10 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Message']"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56022}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 9b00a0b8ee5601840366643939e7a2a8
+*** Element info: {Using=xpath, value=//span[text()='Message']}
+2019-08-21 09:16:10 [main] ERROR BrowserUtils:146 - Attempt :: 2
+2019-08-21 09:16:16 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Message']"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56022}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 9b00a0b8ee5601840366643939e7a2a8
+*** Element info: {Using=xpath, value=//span[text()='Message']}
+2019-08-21 09:16:16 [main] ERROR BrowserUtils:146 - Attempt :: 3
+2019-08-21 09:18:51 [main] ERROR BasePage:90 - Failed to click on :: Message
+2019-08-21 09:18:51 [main] ERROR BasePage:91 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //span[text()='Message'] (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-21 09:18:56 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Message']"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56233}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: cfebc80eed4f95c25e34a50b0aefa42c
+*** Element info: {Using=xpath, value=//span[text()='Message']}
+2019-08-21 09:18:56 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-08-21 10:02:53 [main] ERROR BasePage:90 - Failed to click on :: Activity Stream
+2019-08-21 10:02:53 [main] ERROR BasePage:91 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //span[text()='Activity Stream'] (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-21 10:02:58 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Activity Stream']"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58695}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 6e05ca7b451d91228dea44a5b2eab9d9
+*** Element info: {Using=xpath, value=//span[text()='Activity Stream']}
+2019-08-21 10:02:58 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-08-21 10:03:04 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Activity Stream']"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58695}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 6e05ca7b451d91228dea44a5b2eab9d9
+*** Element info: {Using=xpath, value=//span[text()='Activity Stream']}
+2019-08-21 10:03:04 [main] ERROR BrowserUtils:146 - Attempt :: 2
+2019-08-21 10:03:10 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Activity Stream']"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58695}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 6e05ca7b451d91228dea44a5b2eab9d9
+*** Element info: {Using=xpath, value=//span[text()='Activity Stream']}
+2019-08-21 10:03:10 [main] ERROR BrowserUtils:146 - Attempt :: 3
+2019-08-21 10:03:24 [main] ERROR BasePage:90 - Failed to click on :: Tasks
+2019-08-21 10:03:24 [main] ERROR BasePage:91 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //span[text()='Tasks'] (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-21 10:03:29 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Tasks']"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58745}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 60c8230906f4c0e1f935f25e6d9457f7
+*** Element info: {Using=xpath, value=//span[text()='Tasks']}
+2019-08-21 10:03:29 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-08-21 10:04:07 [main] ERROR BasePage:90 - Failed to click on :: Activity Stream
+2019-08-21 10:04:07 [main] ERROR BasePage:91 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //span[text()='Activity Stream'] (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-21 10:04:12 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Activity Stream']"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58802}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 2ada6eef8248368279acaa09aa31f868
+*** Element info: {Using=xpath, value=//span[text()='Activity Stream']}
+2019-08-21 10:04:12 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-08-21 10:04:19 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Activity Stream']"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58802}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 2ada6eef8248368279acaa09aa31f868
+*** Element info: {Using=xpath, value=//span[text()='Activity Stream']}
+2019-08-21 10:04:19 [main] ERROR BrowserUtils:146 - Attempt :: 2
+2019-08-21 10:04:25 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Activity Stream']"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58802}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 2ada6eef8248368279acaa09aa31f868
+*** Element info: {Using=xpath, value=//span[text()='Activity Stream']}
+2019-08-21 10:04:25 [main] ERROR BrowserUtils:146 - Attempt :: 3
+2019-08-21 10:04:42 [main] ERROR BasePage:90 - Failed to click on :: Tasks
+2019-08-21 10:04:42 [main] ERROR BasePage:91 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //span[text()='Tasks'] (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-21 10:04:47 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Tasks']"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58851}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 606255ea29a43a46ec6e2153907597a0
+*** Element info: {Using=xpath, value=//span[text()='Tasks']}
+2019-08-21 10:04:47 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-08-21 10:04:53 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Tasks']"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58851}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 606255ea29a43a46ec6e2153907597a0
+*** Element info: {Using=xpath, value=//span[text()='Tasks']}
+2019-08-21 10:04:53 [main] ERROR BrowserUtils:146 - Attempt :: 2
+2019-08-21 10:04:59 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Tasks']"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58851}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 606255ea29a43a46ec6e2153907597a0
+*** Element info: {Using=xpath, value=//span[text()='Tasks']}
+2019-08-21 10:04:59 [main] ERROR BrowserUtils:146 - Attempt :: 3
+2019-08-21 10:05:14 [main] ERROR BasePage:90 - Failed to click on :: Chat and Calls
+2019-08-21 10:05:14 [main] ERROR BasePage:91 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //span[text()='Chat and Calls'] (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-21 10:05:19 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Chat and Calls']"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58898}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a1db92d1750cda76e69853f1d79a6e8f
+*** Element info: {Using=xpath, value=//span[text()='Chat and Calls']}
+2019-08-21 10:05:19 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-08-21 10:05:26 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Chat and Calls']"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58898}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a1db92d1750cda76e69853f1d79a6e8f
+*** Element info: {Using=xpath, value=//span[text()='Chat and Calls']}
+2019-08-21 10:05:26 [main] ERROR BrowserUtils:146 - Attempt :: 2
+2019-08-21 10:05:32 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Chat and Calls']"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58898}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a1db92d1750cda76e69853f1d79a6e8f
+*** Element info: {Using=xpath, value=//span[text()='Chat and Calls']}
+2019-08-21 10:05:32 [main] ERROR BrowserUtils:146 - Attempt :: 3
+2019-08-21 10:18:56 [main] ERROR SidemenuPage:39 - Failed to click on :: Time and Reports
+2019-08-21 10:18:56 [main] ERROR SidemenuPage:40 - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59867}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b38df2c509d5506878ad0ff10ade0a57
+2019-08-21 10:19:01 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Time and Reports')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59867}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b38df2c509d5506878ad0ff10ade0a57
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Time and Reports')]}
+2019-08-21 10:19:01 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-08-21 10:19:07 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Time and Reports')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59867}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b38df2c509d5506878ad0ff10ade0a57
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Time and Reports')]}
+2019-08-21 10:19:07 [main] ERROR BrowserUtils:146 - Attempt :: 2
+2019-08-21 10:19:13 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Time and Reports')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59867}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b38df2c509d5506878ad0ff10ade0a57
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Time and Reports')]}
+2019-08-21 10:19:13 [main] ERROR BrowserUtils:146 - Attempt :: 3
+2019-08-21 10:20:06 [main] ERROR SidemenuPage:39 - Failed to click on :: More
+2019-08-21 10:20:06 [main] ERROR SidemenuPage:40 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //span[@class='menu-item-link-text'][contains(text(),'More')] (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-21 10:20:11 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'More')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60008}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: bb5d9b28e8e9794703f6e86dbc886b6d
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'More')]}
+2019-08-21 10:20:11 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-08-21 10:20:17 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'More')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60008}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: bb5d9b28e8e9794703f6e86dbc886b6d
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'More')]}
+2019-08-21 10:20:17 [main] ERROR BrowserUtils:146 - Attempt :: 2
+2019-08-21 10:20:23 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'More')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60008}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: bb5d9b28e8e9794703f6e86dbc886b6d
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'More')]}
+2019-08-21 10:20:23 [main] ERROR BrowserUtils:146 - Attempt :: 3
+2019-08-21 10:21:10 [main] ERROR SidemenuPage:39 - Failed to click on :: Chat and Calls
+2019-08-21 10:21:10 [main] ERROR SidemenuPage:40 - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60125}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 92b593c514e723f94bc081262e0bddec
+2019-08-21 10:21:15 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Chat and Calls')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60125}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 92b593c514e723f94bc081262e0bddec
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Chat and Calls')]}
+2019-08-21 10:21:15 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-08-21 10:21:21 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Chat and Calls')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60125}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 92b593c514e723f94bc081262e0bddec
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Chat and Calls')]}
+2019-08-21 10:21:21 [main] ERROR BrowserUtils:146 - Attempt :: 2
+2019-08-21 10:21:27 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Chat and Calls')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60125}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 92b593c514e723f94bc081262e0bddec
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Chat and Calls')]}
+2019-08-21 10:21:27 [main] ERROR BrowserUtils:146 - Attempt :: 3
+2019-08-21 10:21:40 [main] ERROR SidemenuPage:39 - Failed to click on :: Drive
+2019-08-21 10:21:40 [main] ERROR SidemenuPage:40 - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60171}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 2607ac60e4b2845753a3768f793e8dcc
+2019-08-21 10:21:45 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Drive')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60171}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 2607ac60e4b2845753a3768f793e8dcc
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Drive')]}
+2019-08-21 10:21:45 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-08-21 10:21:51 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Drive')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60171}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 2607ac60e4b2845753a3768f793e8dcc
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Drive')]}
+2019-08-21 10:21:51 [main] ERROR BrowserUtils:146 - Attempt :: 2
+2019-08-21 10:21:57 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Drive')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60171}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 2607ac60e4b2845753a3768f793e8dcc
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Drive')]}
+2019-08-21 10:21:57 [main] ERROR BrowserUtils:146 - Attempt :: 3
+2019-08-21 10:23:48 [main] ERROR SidemenuPage:39 - Failed to click on :: More
+2019-08-21 10:23:48 [main] ERROR SidemenuPage:40 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //span[@class='menu-item-link-text'][contains(text(),'More')] (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-21 10:23:53 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'More')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60437}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 4aa0ab8ae057b8d529e25def3a38b4d1
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'More')]}
+2019-08-21 10:23:53 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-08-21 10:23:59 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'More')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60437}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 4aa0ab8ae057b8d529e25def3a38b4d1
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'More')]}
+2019-08-21 10:23:59 [main] ERROR BrowserUtils:146 - Attempt :: 2
+2019-08-21 10:24:05 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'More')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60437}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 4aa0ab8ae057b8d529e25def3a38b4d1
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'More')]}
+2019-08-21 10:24:05 [main] ERROR BrowserUtils:146 - Attempt :: 3
+2019-08-21 10:25:07 [main] ERROR SidemenuPage:39 - Failed to click on :: Drive
+2019-08-21 10:25:07 [main] ERROR SidemenuPage:40 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //span[@class='menu-item-link-text'][contains(text(),'Drive')] (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-21 10:25:12 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Drive')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60593}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: f4c8d4309cdaf4be434d4264fa0f4377
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Drive')]}
+2019-08-21 10:25:12 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-08-21 10:25:18 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Drive')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60593}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: f4c8d4309cdaf4be434d4264fa0f4377
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Drive')]}
+2019-08-21 10:25:18 [main] ERROR BrowserUtils:146 - Attempt :: 2
+2019-08-21 10:25:24 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Drive')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60593}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: f4c8d4309cdaf4be434d4264fa0f4377
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Drive')]}
+2019-08-21 10:25:24 [main] ERROR BrowserUtils:146 - Attempt :: 3
+2019-08-21 10:27:18 [main] ERROR SidemenuPage:39 - Failed to click on :: More
+2019-08-21 10:27:18 [main] ERROR SidemenuPage:40 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //span[@class='menu-item-link-text'][contains(text(),'More')] (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-21 10:27:24 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'More')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60866}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d464b32db7c6fc65bc8760cc72f52a91
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'More')]}
+2019-08-21 10:27:24 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-08-21 10:27:30 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'More')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60866}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d464b32db7c6fc65bc8760cc72f52a91
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'More')]}
+2019-08-21 10:27:30 [main] ERROR BrowserUtils:146 - Attempt :: 2
+2019-08-21 10:27:36 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'More')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60866}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d464b32db7c6fc65bc8760cc72f52a91
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'More')]}
+2019-08-21 10:27:36 [main] ERROR BrowserUtils:146 - Attempt :: 3
+2019-08-21 10:58:58 [main] ERROR SidemenuPage:39 - Failed to click on :: Tasks
+2019-08-21 10:58:58 [main] ERROR SidemenuPage:40 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //span[@class='menu-item-link-text'][contains(text(),'Tasks')] (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-21 10:59:03 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Tasks')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62589}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 22dcdfb053555fe99c629d687f30b936
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Tasks')]}
+2019-08-21 10:59:03 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-08-21 10:59:09 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Tasks')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62589}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 22dcdfb053555fe99c629d687f30b936
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Tasks')]}
+2019-08-21 10:59:09 [main] ERROR BrowserUtils:146 - Attempt :: 2
+2019-08-21 10:59:15 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Tasks')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62589}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 22dcdfb053555fe99c629d687f30b936
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Tasks')]}
+2019-08-21 10:59:15 [main] ERROR BrowserUtils:146 - Attempt :: 3
+2019-08-21 11:01:39 [main] ERROR SidemenuPage:39 - Failed to click on :: Company
+2019-08-21 11:01:39 [main] ERROR SidemenuPage:40 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //span[@class='menu-item-link-text'][contains(text(),'Company')] (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-21 11:01:44 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Company')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62977}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 93a299fb03a0b39b7a4ff22a8a805aa5
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Company')]}
+2019-08-21 11:01:44 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-08-21 11:01:50 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Company')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62977}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 93a299fb03a0b39b7a4ff22a8a805aa5
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Company')]}
+2019-08-21 11:01:50 [main] ERROR BrowserUtils:146 - Attempt :: 2
+2019-08-21 11:01:56 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Company')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62977}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 93a299fb03a0b39b7a4ff22a8a805aa5
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Company')]}
+2019-08-21 11:01:56 [main] ERROR BrowserUtils:146 - Attempt :: 3
+2019-08-21 13:19:44 [main] ERROR SidemenuPage:39 - Failed to click on :: Activity Stream
+2019-08-21 13:19:44 [main] ERROR SidemenuPage:40 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //span[@class='menu-item-link-text'][contains(text(),'Activity Stream')] (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-21 13:19:49 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Activity Stream')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:65490}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 6c94602f50ddd75aed8b13aa928cc924
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Activity Stream')]}
+2019-08-21 13:19:49 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-08-21 13:19:55 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Activity Stream')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:65490}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 6c94602f50ddd75aed8b13aa928cc924
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Activity Stream')]}
+2019-08-21 13:19:55 [main] ERROR BrowserUtils:146 - Attempt :: 2
+2019-08-21 13:20:12 [main] ERROR SidemenuPage:39 - Failed to click on :: Activity Stream
+2019-08-21 13:20:12 [main] ERROR SidemenuPage:40 - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49161}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 3d83226ac56a7a43813297586f9fd496
+2019-08-21 13:20:17 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Activity Stream')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49161}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 3d83226ac56a7a43813297586f9fd496
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Activity Stream')]}
+2019-08-21 13:20:17 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-08-21 13:20:23 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Activity Stream')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49161}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 3d83226ac56a7a43813297586f9fd496
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Activity Stream')]}
+2019-08-21 13:20:23 [main] ERROR BrowserUtils:146 - Attempt :: 2
+2019-08-21 13:20:29 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Activity Stream')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49161}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 3d83226ac56a7a43813297586f9fd496
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Activity Stream')]}
+2019-08-21 13:20:29 [main] ERROR BrowserUtils:146 - Attempt :: 3
+2019-08-21 13:21:21 [main] ERROR SidemenuPage:39 - Failed to click on :: Drive
+2019-08-21 13:21:21 [main] ERROR SidemenuPage:40 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //span[@class='menu-item-link-text'][contains(text(),'Drive')] (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-21 13:21:26 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Drive')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49275}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 295e548277a6925d3d5cc891a87884cc
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Drive')]}
+2019-08-21 13:21:26 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-08-21 13:21:32 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Drive')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49275}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 295e548277a6925d3d5cc891a87884cc
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Drive')]}
+2019-08-21 13:21:32 [main] ERROR BrowserUtils:146 - Attempt :: 2
+2019-08-21 13:21:38 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Drive')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49275}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 295e548277a6925d3d5cc891a87884cc
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Drive')]}
+2019-08-21 13:21:38 [main] ERROR BrowserUtils:146 - Attempt :: 3
+2019-08-21 13:28:42 [main] ERROR SidemenuPage:39 - Failed to click on :: Chat and Calls
+2019-08-21 13:28:42 [main] ERROR SidemenuPage:40 - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49899}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a525eb39b6f8df133ca06515e3a9dc32
+2019-08-21 13:28:47 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Chat and Calls')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49899}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a525eb39b6f8df133ca06515e3a9dc32
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Chat and Calls')]}
+2019-08-21 13:28:47 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-08-21 13:28:53 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Chat and Calls')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49899}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a525eb39b6f8df133ca06515e3a9dc32
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Chat and Calls')]}
+2019-08-21 13:28:53 [main] ERROR BrowserUtils:146 - Attempt :: 2
+2019-08-21 13:28:59 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Chat and Calls')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49899}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a525eb39b6f8df133ca06515e3a9dc32
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Chat and Calls')]}
+2019-08-21 13:28:59 [main] ERROR BrowserUtils:146 - Attempt :: 3
+2019-08-22 07:00:47 [main] ERROR BasePage:97 - Failed to click on :: task
+2019-08-22 07:00:47 [main] ERROR BasePage:98 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //span[text()='task'] (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-22 07:00:52 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='task']"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52094}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 3b0200e454f418d3cc3285364e151795
+*** Element info: {Using=xpath, value=//span[text()='task']}
+2019-08-22 07:00:52 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-08-22 07:00:59 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='task']"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52094}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 3b0200e454f418d3cc3285364e151795
+*** Element info: {Using=xpath, value=//span[text()='task']}
+2019-08-22 07:00:59 [main] ERROR BrowserUtils:146 - Attempt :: 2
+2019-08-22 07:01:05 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='task']"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52094}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 3b0200e454f418d3cc3285364e151795
+*** Element info: {Using=xpath, value=//span[text()='task']}
+2019-08-22 07:01:05 [main] ERROR BrowserUtils:146 - Attempt :: 3
+2019-08-22 07:01:24 [main] ERROR BasePage:97 - Failed to click on :: task
+2019-08-22 07:01:24 [main] ERROR BasePage:98 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //span[text()='task'] (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-22 07:01:30 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='task']"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52228}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b73affec251e756da6b7e71368855743
+*** Element info: {Using=xpath, value=//span[text()='task']}
+2019-08-22 07:01:30 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-08-22 07:01:36 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='task']"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52228}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b73affec251e756da6b7e71368855743
+*** Element info: {Using=xpath, value=//span[text()='task']}
+2019-08-22 07:01:36 [main] ERROR BrowserUtils:146 - Attempt :: 2
+2019-08-22 07:01:42 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='task']"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52228}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b73affec251e756da6b7e71368855743
+*** Element info: {Using=xpath, value=//span[text()='task']}
+2019-08-22 07:01:42 [main] ERROR BrowserUtils:146 - Attempt :: 3
+2019-08-22 07:06:50 [main] ERROR SidemenuPage:39 - Failed to click on :: task
+2019-08-22 07:06:50 [main] ERROR SidemenuPage:40 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //span[@class='menu-item-link-text'][contains(text(),'task')] (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-22 07:06:55 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'task')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52310}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5c586f0f45d7d93d5c54562f1a19ae32
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'task')]}
+2019-08-22 07:06:55 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-08-22 07:07:01 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'task')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52310}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5c586f0f45d7d93d5c54562f1a19ae32
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'task')]}
+2019-08-22 07:07:01 [main] ERROR BrowserUtils:146 - Attempt :: 2
+2019-08-22 07:07:07 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'task')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52310}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5c586f0f45d7d93d5c54562f1a19ae32
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'task')]}
+2019-08-22 07:07:07 [main] ERROR BrowserUtils:146 - Attempt :: 3
+2019-08-22 07:07:26 [main] ERROR SidemenuPage:39 - Failed to click on :: task
+2019-08-22 07:07:26 [main] ERROR SidemenuPage:40 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //span[@class='menu-item-link-text'][contains(text(),'task')] (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-22 07:07:31 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'task')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52335}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: ba69c4475c96cc97ccd91858cec12e22
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'task')]}
+2019-08-22 07:07:31 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-08-22 07:07:37 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'task')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52335}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: ba69c4475c96cc97ccd91858cec12e22
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'task')]}
+2019-08-22 07:07:37 [main] ERROR BrowserUtils:146 - Attempt :: 2
+2019-08-22 07:07:44 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'task')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52335}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: ba69c4475c96cc97ccd91858cec12e22
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'task')]}
+2019-08-22 07:07:44 [main] ERROR BrowserUtils:146 - Attempt :: 3
+2019-08-22 07:13:38 [main] ERROR SidemenuPage:39 - Failed to click on :: Tasks
+2019-08-22 07:13:38 [main] ERROR SidemenuPage:40 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //span[@class='menu-item-link-text'][contains(text(),'Tasks')] (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-22 07:13:43 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Tasks')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52753}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: c1bd09aec7bd24b3fd9565557e54d8c1
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Tasks')]}
+2019-08-22 07:13:43 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-08-22 07:16:49 [main] ERROR SidemenuPage:39 - Failed to click on :: Tasks
+2019-08-22 07:16:49 [main] ERROR SidemenuPage:40 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //span[@class='menu-item-link-text'][contains(text(),'Tasks')] (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-22 07:19:29 [main] ERROR SidemenuPage:39 - Failed to click on :: Tasks
+2019-08-22 07:19:29 [main] ERROR SidemenuPage:40 - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53173}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 9b823a9fb6c00e6098479b4985db00e9
+2019-08-22 07:19:34 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Tasks')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53173}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 9b823a9fb6c00e6098479b4985db00e9
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Tasks')]}
+2019-08-22 07:19:34 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-08-22 08:10:03 [main] ERROR SidemenuPage:39 - Failed to click on :: Tasks
+2019-08-22 08:10:03 [main] ERROR SidemenuPage:40 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //span[@class='menu-item-link-text'][contains(text(),'Tasks')] (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-22 08:10:08 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Tasks')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56235}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a6989c2defcfd5baccdb55492583e83f
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Tasks')]}
+2019-08-22 08:10:08 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-08-22 08:27:37 [main] ERROR SidemenuPage:39 - Failed to click on :: Tasks
+2019-08-22 08:27:37 [main] ERROR SidemenuPage:40 - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57239}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 8fc89c02b24e39af355143bad18eedd7
+2019-08-22 08:40:01 [main] ERROR SidemenuPage:39 - Failed to click on :: Tasks
+2019-08-22 08:40:01 [main] ERROR SidemenuPage:40 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Tasks')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58041}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5b308150eed67db05ffca9b32220378d
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Tasks')]}
+2019-08-22 08:46:27 [main] ERROR SidemenuPage:39 - Failed to click on :: Tasks
+2019-08-22 08:46:27 [main] ERROR SidemenuPage:40 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //span[@class='menu-item-link-text'][contains(text(),'Tasks')] (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-22 11:21:40 [main] ERROR SidemenuPage:39 - Failed to click on :: Tasks
+2019-08-22 11:21:40 [main] ERROR SidemenuPage:40 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //span[@class='menu-item-link-text'][contains(text(),'Tasks')] (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-22 11:21:45 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Tasks')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52135}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 1773efb35aa90e2d1cd0d4eb6e392571
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Tasks')]}
+2019-08-22 11:21:45 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-08-23 15:53:16 [main] ERROR SidemenuPage:39 - Failed to click on :: Tasks
+2019-08-23 15:53:16 [main] ERROR SidemenuPage:40 - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49167}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: c7246c3a16ffe77ea6313a7da31d3a6e
+2019-08-24 18:03:09 [main] ERROR SidemenuPage:39 - Failed to click on :: Chat and Calls
+2019-08-24 18:03:09 [main] ERROR SidemenuPage:40 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //span[@class='menu-item-link-text'][contains(text(),'Chat and Calls')] (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-24 18:03:14 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Chat and Calls')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62087}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: c22d12e547ea7439d70a8a6381a8e5ee
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Chat and Calls')]}
+2019-08-24 18:03:14 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-08-24 18:03:20 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Chat and Calls')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62087}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: c22d12e547ea7439d70a8a6381a8e5ee
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Chat and Calls')]}
+2019-08-24 18:03:20 [main] ERROR BrowserUtils:146 - Attempt :: 2
+2019-08-24 18:03:26 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Chat and Calls')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62087}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: c22d12e547ea7439d70a8a6381a8e5ee
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Chat and Calls')]}
+2019-08-24 18:03:26 [main] ERROR BrowserUtils:146 - Attempt :: 3
+2019-08-24 18:04:33 [main] ERROR SidemenuPage:39 - Failed to click on :: Workgroups
+2019-08-24 18:04:33 [main] ERROR SidemenuPage:40 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //span[@class='menu-item-link-text'][contains(text(),'Workgroups')] (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-24 18:04:38 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Workgroups')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62229}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 346c5bd6faeaec9ba85868cb0db9f4f4
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Workgroups')]}
+2019-08-24 18:04:38 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-08-24 18:04:44 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Workgroups')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62229}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 346c5bd6faeaec9ba85868cb0db9f4f4
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Workgroups')]}
+2019-08-24 18:04:44 [main] ERROR BrowserUtils:146 - Attempt :: 2
+2019-08-24 18:04:50 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Workgroups')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62229}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 346c5bd6faeaec9ba85868cb0db9f4f4
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Workgroups')]}
+2019-08-24 18:04:50 [main] ERROR BrowserUtils:146 - Attempt :: 3
+2019-08-24 18:05:56 [main] ERROR SidemenuPage:39 - Failed to click on :: Time and Reports
+2019-08-24 18:05:56 [main] ERROR SidemenuPage:40 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //span[@class='menu-item-link-text'][contains(text(),'Time and Reports')] (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-24 18:06:01 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Time and Reports')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62371}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 2e9f75fddbfc68d7e3a1a7d81738e4a4
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Time and Reports')]}
+2019-08-24 18:06:01 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-08-24 18:06:07 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Time and Reports')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62371}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 2e9f75fddbfc68d7e3a1a7d81738e4a4
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Time and Reports')]}
+2019-08-24 18:06:07 [main] ERROR BrowserUtils:146 - Attempt :: 2
+2019-08-24 18:06:13 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Time and Reports')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62371}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 2e9f75fddbfc68d7e3a1a7d81738e4a4
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Time and Reports')]}
+2019-08-24 18:06:13 [main] ERROR BrowserUtils:146 - Attempt :: 3
+2019-08-24 18:11:19 [main] ERROR SidemenuPage:39 - Failed to click on :: Services
+2019-08-24 18:11:19 [main] ERROR SidemenuPage:40 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //span[@class='menu-item-link-text'][contains(text(),'Services')] (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-24 18:11:24 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Services')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62959}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b082f732a8934f2ceb73b111e26de884
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Services')]}
+2019-08-24 18:11:24 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-08-24 18:11:30 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Services')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62959}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b082f732a8934f2ceb73b111e26de884
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Services')]}
+2019-08-24 18:11:30 [main] ERROR BrowserUtils:146 - Attempt :: 2
+2019-08-24 18:11:36 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Services')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62959}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b082f732a8934f2ceb73b111e26de884
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Services')]}
+2019-08-24 18:11:36 [main] ERROR BrowserUtils:146 - Attempt :: 3
+2019-08-24 18:12:05 [main] ERROR SidemenuPage:39 - Failed to click on :: Company
+2019-08-24 18:12:05 [main] ERROR SidemenuPage:40 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //span[@class='menu-item-link-text'][contains(text(),'Company')] (tried for 3 second(s) with 500 milliseconds interval)
+2019-08-24 18:12:10 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Company')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63015}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 187c708bd4b2d53d6243eb0a48bc92dc
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Company')]}
+2019-08-24 18:12:10 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-08-24 18:12:16 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Company')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63015}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 187c708bd4b2d53d6243eb0a48bc92dc
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Company')]}
+2019-08-24 18:12:16 [main] ERROR BrowserUtils:146 - Attempt :: 2
+2019-08-24 18:12:22 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Company')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63015}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 187c708bd4b2d53d6243eb0a48bc92dc
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Company')]}
+2019-08-24 18:12:22 [main] ERROR BrowserUtils:146 - Attempt :: 3
+2019-09-04 08:44:03 [main] ERROR ExcelUtil:63 - java.lang.NullPointerException
+2019-09-04 19:01:43 [main] ERROR BasePage:94 - Failed to click on :: Message
+2019-09-04 19:01:43 [main] ERROR BasePage:95 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //span[text()='Message'] (tried for 3 second(s) with 500 milliseconds interval)
+2019-09-04 19:01:48 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Message']"}
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56127}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: fa0130076dcaa47d7fea6b40c2e47cba
+*** Element info: {Using=xpath, value=//span[text()='Message']}
+2019-09-04 19:01:48 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-09-04 19:01:54 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Message']"}
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56127}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: fa0130076dcaa47d7fea6b40c2e47cba
+*** Element info: {Using=xpath, value=//span[text()='Message']}
+2019-09-04 19:01:54 [main] ERROR BrowserUtils:146 - Attempt :: 2
+2019-09-04 19:02:00 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Message']"}
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56127}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: fa0130076dcaa47d7fea6b40c2e47cba
+*** Element info: {Using=xpath, value=//span[text()='Message']}
+2019-09-04 19:02:00 [main] ERROR BrowserUtils:146 - Attempt :: 3
+2019-09-05 07:08:00 [main] ERROR SidemenuPage:39 - Failed to click on :: Tasks
+2019-09-05 07:08:00 [main] ERROR SidemenuPage:40 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //span[@class='menu-item-link-text'][contains(text(),'Tasks')] (tried for 3 second(s) with 500 milliseconds interval)
+2019-09-05 07:08:05 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Tasks')]"}
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59295}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b15876e3507dbbb0b18e08842eb96da2
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Tasks')]}
+2019-09-05 07:08:05 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-09-05 07:42:29 [main] ERROR SidemenuPage:39 - Failed to click on :: Tasks
+2019-09-05 07:42:29 [main] ERROR SidemenuPage:40 - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60967}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 54bdd28f8f2e04e03d8cad18cc427a76
+2019-09-05 07:42:49 [main] ERROR SidemenuPage:39 - Failed to click on :: Tasks
+2019-09-05 07:42:49 [main] ERROR SidemenuPage:40 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //span[@class='menu-item-link-text'][contains(text(),'Tasks')] (tried for 3 second(s) with 500 milliseconds interval)
+2019-09-05 14:59:53 [main] ERROR SidemenuPage:39 - Failed to click on :: Tasks
+2019-09-05 14:59:53 [main] ERROR SidemenuPage:40 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //span[@class='menu-item-link-text'][contains(text(),'Tasks')] (tried for 3 second(s) with 500 milliseconds interval)
+2019-09-05 14:59:58 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Tasks')]"}
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:65229}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: bd9e23c7e206084aaccc069db61b97a4
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Tasks')]}
+2019-09-05 14:59:58 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-09-06 19:41:08 [main] ERROR SidemenuPage:39 - Failed to click on :: Tasks
+2019-09-06 19:41:08 [main] ERROR SidemenuPage:40 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //span[@class='menu-item-link-text'][contains(text(),'Tasks')] (tried for 3 second(s) with 500 milliseconds interval)
+2019-09-06 19:41:13 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Tasks')]"}
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52270}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 3353f5df036fa9d0b6203efad9418e14
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Tasks')]}
+2019-09-06 19:41:13 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-09-06 19:41:19 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Tasks')]"}
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52270}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 3353f5df036fa9d0b6203efad9418e14
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Tasks')]}
+2019-09-06 19:41:19 [main] ERROR BrowserUtils:146 - Attempt :: 2
+2019-09-06 19:41:26 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Tasks')]"}
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52270}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 3353f5df036fa9d0b6203efad9418e14
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Tasks')]}
+2019-09-06 19:41:26 [main] ERROR BrowserUtils:146 - Attempt :: 3
+2019-09-06 20:09:37 [main] ERROR SidemenuPage:39 - Failed to click on :: Calendar
+2019-09-06 20:09:37 [main] ERROR SidemenuPage:40 - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53883}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: dfa19fd7a18611aa90f12365a3e51a48
+2019-09-06 20:09:42 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Calendar')]"}
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53883}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: dfa19fd7a18611aa90f12365a3e51a48
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Calendar')]}
+2019-09-06 20:09:42 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-09-06 20:09:48 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Calendar')]"}
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53883}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: dfa19fd7a18611aa90f12365a3e51a48
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Calendar')]}
+2019-09-06 20:09:48 [main] ERROR BrowserUtils:146 - Attempt :: 2
+2019-09-06 20:09:54 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Calendar')]"}
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53883}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: dfa19fd7a18611aa90f12365a3e51a48
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Calendar')]}
+2019-09-06 20:09:54 [main] ERROR BrowserUtils:146 - Attempt :: 3
+2019-09-06 20:16:31 [main] ERROR SidemenuPage:39 - Failed to click on :: Chat and Calls
+2019-09-06 20:16:31 [main] ERROR SidemenuPage:40 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //span[@class='menu-item-link-text'][contains(text(),'Chat and Calls')] (tried for 3 second(s) with 500 milliseconds interval)
+2019-09-06 20:16:36 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Chat and Calls')]"}
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54699}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 2a7e4c9f4ba171f01f94b10e3916a015
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Chat and Calls')]}
+2019-09-06 20:16:36 [main] ERROR BrowserUtils:146 - Attempt :: 1
+2019-09-06 20:16:42 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Chat and Calls')]"}
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54699}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 2a7e4c9f4ba171f01f94b10e3916a015
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Chat and Calls')]}
+2019-09-06 20:16:42 [main] ERROR BrowserUtils:146 - Attempt :: 2
+2019-09-06 20:16:48 [main] ERROR BrowserUtils:144 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='menu-item-link-text'][contains(text(),'Chat and Calls')]"}
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-59O3I4O', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\ostur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54699}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 2a7e4c9f4ba171f01f94b10e3916a015
+*** Element info: {Using=xpath, value=//span[@class='menu-item-link-text'][contains(text(),'Chat and Calls')]}
+2019-09-06 20:16:48 [main] ERROR BrowserUtils:146 - Attempt :: 3
